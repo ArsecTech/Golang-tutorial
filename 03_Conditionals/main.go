@@ -31,4 +31,23 @@ func main() {
 		fmt.Println("a is more than half of b")
 	}
 
+	switchStatements()
+
+}
+
+func switchStatements() {
+
+	x := 2
+
+	switch x {
+	case 1:
+		fmt.Println("one")
+	case 2:
+		fmt.Println("two")
+	case 3:
+		fmt.Println("three")
+	default:
+		fmt.Println("many")
+	}
+
 }
