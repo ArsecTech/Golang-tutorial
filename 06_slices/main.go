@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	foo := []string{"Amir", "Azimi", "Parsclick"}
+	foo := []string{"Arshia", "Ghaffarian", "ArsecTech"}
 	fmt.Printf("foo = %v (type %T)\n", foo, foo)
 
 	// Lenght
