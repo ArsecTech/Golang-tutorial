@@ -31,7 +31,7 @@ func main() {
 
 	// POST request
 	job := &Job{
-		User:   "Amir",
+		User:   "Arshia",
 		Action: "punch",
 		Count:  1,
 	}
