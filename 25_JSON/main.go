@@ -10,7 +10,7 @@ import (
 
 var data = `
 {
-	"user": "Seyed Arshia",
+	"user": "ArsecTech",
 	"type": "deposit",
 	"amount": 5000000.5
 }
